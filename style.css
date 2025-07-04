@@ -630,6 +630,11 @@ footer {
     flex-direction: column;
     align-items: center;
   }
+ 
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
 
   .btn {
     width: 100%;
